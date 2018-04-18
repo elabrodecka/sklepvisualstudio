@@ -22,6 +22,7 @@ namespace sklepvisualstudio
         {
             LaptopyLista laptopyLista = new LaptopyLista(sklepEntities);
             laptopyLista.Show();
+           
         }
     }
 }
